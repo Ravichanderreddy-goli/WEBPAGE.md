@@ -2,6 +2,8 @@
 *Warangal is a beautiful city*
 # 1.Warangal
 *Warangal is my home town.It is one of the two metropolitan cities in the Indian state of Telangana. It is the district headquarters of Warangal Urban District. Warangal is the second most populous city in the state, with the first being state capital, Hyderabad. As of 2011 census of India, it had a population of 753,538 and an area of 471 km2 (182 sq mi).*
+
+
 # 2.Historical Places in Warangal
 + *Laknavaram Lake*
 + *Thousand Pillar Temple*
